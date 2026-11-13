@@ -1,4 +1,3 @@
-
 version = "1.0.0"
 description = "Visual Roles - Local role customization"
 
