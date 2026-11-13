@@ -1,6 +1,6 @@
 
 version = "1.0.0"
-description = "Locally simulated server roles for profiles and member lists"
+description = "Visual Roles - Local role customization"
 
 aliucord {
     changelog.set(
@@ -8,8 +8,9 @@ aliucord {
         # 1.0.0
         * Initial Visual Roles release
         * Multiple role selection
-        * Local visual role customization
-        * Profile and member list integration
+        * Local visual customization
+        * Profile integration
+        * Member list integration
         """.trimIndent(),
     )
 
