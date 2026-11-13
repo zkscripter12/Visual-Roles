@@ -12,7 +12,7 @@ import com.aliucord.fragments.SettingsPage
 
 @AliucordPlugin
 @Suppress("unused")
-class MyFirstKotlinPlugin : Plugin() {
+class VisualRolesPlugin : Plugin() {
 
     init {
         settingsTab = SettingsTab(VisualRolesPage::class.java)
